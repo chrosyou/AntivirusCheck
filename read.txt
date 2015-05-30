@@ -1,0 +1,7 @@
+[result]
+taskid=任务号
+name=nod32
+time=2015.3.27
+virusversion=病毒版本
+filename=文件名
+scanresult=扫描结果
